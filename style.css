@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+.link-hover-white:hover {
+    color: white!important;
+}
+.bg-navyblue {
+    background-color: #FC8621!important;
+}
+.color-navyblue {
+    color: #FC8621!important;
+}
+.backgroundtheme {
+    background: url(orangetheme.jpg);
+    background-size: cover;
+}
+.btn-org {
+    color: #fff;
+    background-color: #fc8621;
+    border-color: #fc8621;
+}
+section {
+    padding-top: 7.5rem;
+}
